@@ -4,6 +4,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on (Vanila Javascript & MERN) :heart:
-- 🌱 I’m currently learning python :fire:
-- :boom: 2020 Goal: (Full Stack Web Dev With JS) & (python Programmer) :fire: :fire:
+- 🌱 I’m currently learning MERN :fire:
+- :boom: 2020 Goal: (Full Stack Web Dev With JS) :fire: :fire:
 - ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch: 
