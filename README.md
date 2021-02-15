@@ -8,5 +8,9 @@ Here are some ideas to get you started:
 - :boom: 2020 Goal: (Full Stack Web Developer With JS) :fire: :fire:
 - ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch: 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisiam)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Tools
 
