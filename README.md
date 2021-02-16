@@ -1,4 +1,4 @@
-### Hi there 👋###Shahidul Islam Siam 🔥
+### Hi there 👋Shahidul Islam Siam🔥
 #### Full Stack JS Web Developer
 #### I'm a 😍😍 JS & PY Lover 😍😍!
 - 🔭 I’m currently working on (Javascript & MERN) :heart:
@@ -34,5 +34,6 @@
 <br />
 <img width="700px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=SIsiam&card_width=550)](https://github.com/SIsiam)
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='30'>
-</a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='30'></a> 
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'</a> 
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
