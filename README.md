@@ -6,6 +6,8 @@
 - :boom: 2020 Goal: (Full Stack Web Developer With JS) :fire: :fire:
 - ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:  
 
+<img width="800px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
+
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.sisiam/)
@@ -14,9 +16,6 @@
 [![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
 
-
-
-<br />
 <br />
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,5 +38,4 @@
 <br />
 <br />
 <br />
-<img width="800px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
