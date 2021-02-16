@@ -32,5 +32,6 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-<img width="700px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
+<br />
+<img width="800px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
