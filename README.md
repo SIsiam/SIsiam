@@ -6,7 +6,7 @@
 - :boom: 2020 Goal: (Full Stack Web Developer With JS) :fire: :fire:
 - ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:  
 
-<img width="800px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true"/>
+<img width="800px" alt=" My Github Stats"  src="https://github-readme-stats.vercel.app/api?SIsiam=anuraghazra&show_icons=true&theme=radical"/>
 
 ### Language And Tools:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
