@@ -3,7 +3,7 @@
 #### I'm  😍🖤 JS & Python Lover 💛💖
 - 🔭 I’m currently working on (Javascript & MERN) :heart:
 - 🌱 I’m currently learning MERN :fire:
-- :boom: 2020 Goal: (Full Stack Web Developer With JS) :fire: :fire:
+- :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:
 - ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
@@ -33,8 +33,8 @@
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.sisiam/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=FF6E33)](https://www.facebook.com/dev.sisiam/)
-[![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://www.facebook.com/dev.sisiam/)
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=FF6E33)](https://twitter.com/Dsisiam/)
+[![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://twitter.com/Dsisiam)
 [![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
 
