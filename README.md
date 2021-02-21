@@ -10,6 +10,17 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
 
+#### Top Technologies For F.S.Web Dev
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=#FFE873)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-61DBFB?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=61DBFB)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-3C873A?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-react-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+<br />
+
+<details>
+<summary>
+  More Details About Me
+</summary>
+
 
 ### Language And Tools:
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,21 +50,6 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 [![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://twitter.com/Dsisiam)
 [![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
-
-
-#### Top Technologies For F.S.Web Dev
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=#FFE873)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-61DBFB?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=61DBFB)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-3C873A?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-react-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-<br />
-<br />
-
-<details>
-<summary>
-  More Details About Me
-</summary>
-
-<br >
 
 #### Resume
 - :paperclip: [My Resume/CV](https://githubs.m/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
