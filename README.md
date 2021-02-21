@@ -12,7 +12,7 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 
 #### Top Technologies For F.S.Web Dev
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=#4B8BBE)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-61DBFB?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=61DBFB)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-3C873A?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-react-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=#FFD43B)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-61DBFB?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=61DBFB)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-3C873A?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=3C873A)](#) [![React Badge](https://img.shields.io/badge/-react-007acc?style=for-the-badge&labelColor=black&logo=react&logoColor=007acc)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-007acc?style=for-the-badge&labelColor=black&logo=node.js&logoColor=007acc)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <br />
 
@@ -65,10 +65,3 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 ![siam's github stats](https://github-readme-stats.vercel.app/api?username=SIsiam&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-
-
-
-
-
