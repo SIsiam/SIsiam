@@ -1,4 +1,5 @@
-### Hi there 👋Shahidul Islam Siam🔥
+## Hi I'm Siam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learning outstanding projects or Learning😍😍.
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
 - 🔭 I’m currently working on @Opps!Sorry (Javascript & MERN) :heart:
@@ -38,11 +39,6 @@
 [![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://twitter.com/Dsisiam)
 [![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
-
-
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Islem Maboud a Full Stack Web Developer and Self- Developer on [Mind](https://youtube.com/coderone). I Spend most of time Learning outstanding projects or Learning😍😍.
 
 :mailbox: Reach me out!
 
