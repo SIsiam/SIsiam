@@ -16,7 +16,7 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 
 
 
-<div style="color:blue;text-align:center;">
+<div style="text-align:center">
 
 
 #### Full Stack JS Web Developer
