@@ -6,16 +6,17 @@
 
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
-<li>🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:<li>
- 
- :computer: Most used line of code `git commit -m "Test Commit"`
- 🌱 I’m currently learning Python :fire:
- :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:
- ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:  
 
+ <li>🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:<li>
+ <li> :computer: Most used line of code `git commit -m "Test Commit"`</li>
+ <li>🌱 I’m currently learning Python :fire:</li>
+ <li> :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:</li>
+ <li>⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:</li>
+ 
+ 
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
 
-#### Top Technologies For F.S.Web Dev
+#### Top Technologies For Full Stack Web Dev
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776ab)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=#4DB33D)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-68A063?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=68A063)](#) [![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=#61DBFB)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#3C873A)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
