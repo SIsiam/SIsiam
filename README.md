@@ -12,10 +12,10 @@
  <li>🌱 I’m currently learning Python :fire:</li>
  <li> :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:</li>
  <li>⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:</li>
- 
+<br>
+<br>
  
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
-<br>
 
 #### Top Technologies For Full Stack Web Dev
 
