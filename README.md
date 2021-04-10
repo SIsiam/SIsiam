@@ -1,6 +1,6 @@
-I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learning outstanding projects or Learning😍😍
 <h1 align="center">
   ## Hey Dude I'm Siam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learning outstanding projects or Learning😍😍
 
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
@@ -18,7 +18,7 @@ I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learnin
 
 
 
-<div style="text-align:center">
+<div align="center">
 
 
 #### Full Stack JS Web Developer
