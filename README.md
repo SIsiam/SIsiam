@@ -3,10 +3,9 @@
 
 <div align="center">
   
-I'm  `Shahidul Islam Siam` A Full Stack Web Developer. I Spend most of time Learning outstanding projects or Learning😍😍
+### I'm  `Shahidul Islam Siam` A `Full Stack Web Developer`. I Spend most of time Learning outstanding projects or Learning😍😍
 
-#### Full Stack JS Web Developer
-#### I'm  😍🖤 JS & Python Lover 💛💖
+#### 😍🖤 JS & Python Lover 💛💖
 
   🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
   
