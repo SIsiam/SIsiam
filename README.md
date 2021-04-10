@@ -28,7 +28,7 @@
 
 
 <br />
-<details align="center">
+<details>
 <summary>
   More Details About Me
 </summary>
