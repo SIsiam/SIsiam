@@ -7,7 +7,10 @@
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
 
+  🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
+  
   :computer: Most used line of code `git commit -m "Test Commit"`
+<li>🌱 I’m currently learning Python :fire:</li> <li> :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:</li> <li>⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:</li>
 
 
 <br>
