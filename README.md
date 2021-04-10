@@ -9,7 +9,7 @@
 
   🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
   
-  :computer: Most used line of code `git commit -m "Test Commit"`
+  :computer: Most used line of code `git commit -m "Initial Commit"`
   
   🌱 I’m currently learning Python :fire:
   
