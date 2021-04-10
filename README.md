@@ -7,7 +7,7 @@
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
 
- - :computer: Most used line of code `git commit -m "Test Commit"`
+  :computer: Most used line of code `git commit -m "Test Commit"`
 
 
 <br>
