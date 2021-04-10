@@ -8,7 +8,7 @@
 #### I'm  😍🖤 JS & Python Lover 💛💖
 
  <li>🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:<li>
- <li> :computer: Most used line of code `git commit -m "Test Commit"`</li>
+ <p>:computer: Most used line of code `git commit -m "Test Commit"`</p>
  <li>🌱 I’m currently learning Python :fire:</li>
  <li> :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:</li>
  <li>⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:</li>
