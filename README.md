@@ -2,24 +2,9 @@
   ## Hey Dude I'm Siam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 I'm Shahidul Islam Siam A Full Stack Web Developer. I Spend most of time Learning outstanding projects or Learning😍😍
 
-#### Full Stack JS Web Developer
-#### I'm  😍🖤 JS & Python Lover 💛💖
-- 🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
-- :computer: Most used line of code `git commit -m "Test Commit"`
-- 🌱 I’m currently learning Python :fire:
-- :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:
-- ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:  
-
-[![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
-
-#### Top Technologies For F.S.Web Dev
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776ab)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=#4DB33D)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-68A063?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=68A063)](#) [![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=#61DBFB)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#3C873A)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-
 
 
 <div align="center">
-
 
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
