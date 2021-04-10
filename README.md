@@ -6,7 +6,8 @@
 
 #### Full Stack JS Web Developer
 #### I'm  😍🖤 JS & Python Lover 💛💖
- 🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
+<li>🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:<li>
+ 
  :computer: Most used line of code `git commit -m "Test Commit"`
  🌱 I’m currently learning Python :fire:
  :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:
