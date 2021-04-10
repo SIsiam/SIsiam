@@ -27,13 +27,8 @@
 
 
 
-
-
-
-
-
 <br />
-<details>
+<details align="center">
 <summary>
   More Details About Me
 </summary>
