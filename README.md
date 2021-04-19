@@ -83,4 +83,7 @@
 
 ![siam's github stats](https://github-readme-stats.vercel.app/api?username=SIsiam&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIsiam&theme=tokyonight)
+
+
 </details>
