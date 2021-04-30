@@ -71,12 +71,13 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
 
 #### Resume
-- :paperclip: [My Resume/CV](https://githubs.m/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1u3UWADSdI3Yu9SdpxqOWUkbt3fDwp4qO/view)
 - :email: shahidulmd392@gmail.com
 
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
+
 
 </details>
