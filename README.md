@@ -79,9 +79,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
 
-#### Github Stats
-
-![siam's github stats](https://github-readme-stats.vercel.app/api?username=SIsiam&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
 </details>
