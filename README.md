@@ -1,11 +1,11 @@
 <h1 align="center"> Hey Dude Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
-<div align="center">
-  
-<p> I'm  `Shahidul Islam Siam` A `MERN Stack Web Developer.`</p>
-<p>I Spend most of time `Learning` outstanding projects or Learning. `Love To Learn`😍😍</p>
 
+  
+ I'm  `Shahidul Islam Siam` A `MERN Stack Web Developer.` I Spend most of time `Learning` outstanding projects or Learning. `Love To Learn`😍😍
+
+<div align="center">
 #### 😍🖤 Javascript & Python Lover 💛💖
 
   🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
