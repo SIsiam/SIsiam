@@ -20,9 +20,7 @@
 
 <br>
 <br>
- 
-[![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
-<br>
+
 
 #### Top Technologies For Full Stack Web Dev
 <br>
@@ -74,6 +72,10 @@
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1u3UWADSdI3Yu9SdpxqOWUkbt3fDwp4qO/view)
 - :email: shahidulmd392@gmail.com
 
+
+ 
+[![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
+<br>
 
 #### Profile Visits 
 
