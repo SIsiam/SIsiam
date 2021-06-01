@@ -10,9 +10,9 @@
   
   :computer: Most used line of code `git commit -m "Initial Commit"`
   
-  🌱 I’m currently learning Python :fire:
+  🌱 I’m currently learning Python in dept :fire:
   
-   :boom: 2021 Goal: (Full Stack Web Developer With JS) :fire: :fire:
+   :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
    
   ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:
 
