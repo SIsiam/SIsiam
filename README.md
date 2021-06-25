@@ -1,4 +1,4 @@
-<h1 align="center"> Hey Dude Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
   
  I'm  `Shahidul Islam Siam` A `MERN Stack Web Developer.` I Spend most of time `Learning` outstanding projects or Learning. `Love To Learn`😍
 
@@ -6,11 +6,11 @@
 
 # 😍🖤 Javascript & Python Lover 💛💖
 
-  🔭 I’m currently working on @Opps!Sorry (No Work Just Prectice) :heart:
+  🔭 I’m currently working on @Opps!Sorry (No Work Just Keep project) :heart:
   
   :computer: Most used line of code `git commit -m "Initial Commit"`
   
-  🌱 I’m currently learning Python in dept :fire:
+  🌱 I’m currently learning Python in dept or advanced in JS :fire:
   
    :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
    
@@ -57,7 +57,7 @@
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
 
 #### Resume
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1u3UWADSdI3Yu9SdpxqOWUkbt3fDwp4qO/view)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
 - :email: shahidulmd392@gmail.com
 
 
