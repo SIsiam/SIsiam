@@ -10,7 +10,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <div>
 
-🔭 I’m currently working on **BDEMR**
+🔭 I’m currently working on **BDEMR Solutions. Corp.**
 
 🌱 I’m currently learning **Python in dept or Advanced in JS**
 
