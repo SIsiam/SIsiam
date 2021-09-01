@@ -53,12 +53,14 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 
  
+<div style="display:flex; justify-content: space-between">
+
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisiam&show_icons=true&locale=en&layout=compact" alt="sisiam" /></p>
-
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
+
 <br>
 
 #### Profile Visits 
