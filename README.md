@@ -51,7 +51,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
 - :email: shahidulmd392@gmail.com
  
-<div style="display:flex; justify-content: space-between">
+<div style="display:flex; justify-content: space-between; width:100%">
 
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
 
@@ -59,9 +59,9 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
 
 #### Profile Visits 
 
