@@ -5,6 +5,11 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 <br>
 
 # 😍🖤 Javascript & Python Lover 💛💖
+
+<div style="display:flex; justify-content:space-around; padding:10px">
+
+<div>
+
 🔭 I’m currently working on **BDEMR**
 
 🌱 I’m currently learning **Python in dept or Advanced in JS**
@@ -23,6 +28,16 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 ⚡ Fun fact **Morning Wallk, skinny-to-Fit Person, Book Read**
 
+</div>
+
+<div>
+
+</div>
+
+![](images/web-dev-2.gif)
+
+</div>
+
 <br>
 
 
@@ -33,7 +48,6 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 <br />
 
 
-![](images/web-dev-2.gif)
 
 
 ### Languages And Tools:
