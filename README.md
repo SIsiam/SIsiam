@@ -6,9 +6,13 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 # 😍🖤 Javascript & Python Lover 💛💖
 🔭 I’m currently working on **BDEMR**
+
 🌱 I’m currently learning **Python in dept or Advanced in JS**
+
  :computer: Most used line of code `git commit -m "Initial Commit"`
+ 
  :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
+ 
 ⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:
 
 <br>
