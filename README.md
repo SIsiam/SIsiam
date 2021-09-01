@@ -29,9 +29,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 #### Top Technologies For Full Stack Web Dev
 <br>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776ab)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=#4DB33D)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-68A063?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=68A063)](#) [![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=#61DBFB)](#) [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#3C873A)](#)[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-
-
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=#61DBFB)](#)  [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#3C873A)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-68A063?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=68A063)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=#4DB33D)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776ab)](#)  
 <br />
 
 ### Language And Tools:
