@@ -38,7 +38,6 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
   </p>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sisiam" alt="sisiam" /></a> </p>
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
@@ -55,6 +54,12 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
  
 [![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisiam&show_icons=true&locale=en&layout=compact" alt="sisiam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sisiam&show_icons=true&locale=en" alt="sisiam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
 <br>
 
 #### Profile Visits 
