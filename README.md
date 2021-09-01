@@ -59,9 +59,9 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
 
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" /></p>
 
 #### Profile Visits 
 
