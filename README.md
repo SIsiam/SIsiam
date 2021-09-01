@@ -6,7 +6,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 # 😍🖤 Javascript & Python Lover 💛💖
 
-<div style="display:flex; justify-content:space-around; padding:10px">
+<div style="display:flex; justify-content:space-around; padding:10px;">
 
 <div>
 
@@ -32,7 +32,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <div>
 
-</div>
+</div style="width:100px;">
 
 ![](images/web-dev-2.gif)
 
