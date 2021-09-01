@@ -12,19 +12,16 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
  :computer: Most used line of code `git commit -m "Initial Commit"`
  
  :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
- 
-⚡ Fun fact: Morning Wallk, skinny-to-Fit Person, Book Read :punch:
 
+👨‍💻 All of my projects are available at [https://siam-dev.netlify.app](https://siam-dev.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://siam-dev.netlify.app](https://siam-dev.netlify.app)
+📝 I regularly write articles on [https://shahidulmd392.medium.com/](https://shahidulmd392.medium.com/)
 
-- 📝 I regularly write articles on [https://shahidulmd392.medium.com/](https://shahidulmd392.medium.com/)
+💬 Ask me about **JavaScript, node, express, react, mongodb, typeScript and python**
 
-- 💬 Ask me about **JavaScript,node,express,react,mongodb,typeScript and python**
+📫 How to reach me **shahidulmd392@gmail.com**
 
-- 📫 How to reach me **shahidulmd392@gmail.com**
-
-- ⚡ Fun fact **Morning Wallk, skinny-to-Fit Person, Book Read**
+⚡ Fun fact **Morning Wallk, skinny-to-Fit Person, Book Read**
 
 <br>
 
