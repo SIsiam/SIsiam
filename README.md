@@ -6,8 +6,11 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 # 😍🖤 Javascript & Python Lover 💛💖
 
-  🔭 I’m currently working on @Opps!Sorry (No Work Just Keep project) :heart:
-  
+- 🔭 I’m currently working on **BDEMR**
+
+- 🌱 I’m currently learning **Python in dept or Advanced in JS**
+
+ 
   :computer: Most used line of code `git commit -m "Initial Commit"`
   
   🌱 I’m currently learning Python in dept or advanced in JS :fire:
