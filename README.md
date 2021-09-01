@@ -39,6 +39,29 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <br>
 
+
+#### Resume
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
+- :email: shahidulmd392@gmail.com
+ 
+<div align="left">
+
+[![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
+
+</div>
+
+<br>
+
+<div align:"left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisiam&show_icons=true&locale=en&layout=compact" alt="sisiam" />
+</div>
+
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.sisiam/)
@@ -46,26 +69,3 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 [![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://twitter.com/Dsisiam)
 [![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
-
-#### Resume
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
-- :email: shahidulmd392@gmail.com
- 
-<div>
-
-[![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIsiam&show_icons=true&theme=radical)](https://github.com/SIsiam/github-readme-stats)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sisiam&show_icons=true&locale=en&layout=compact" alt="sisiam" />
-</div>
-
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sisiam&" alt="sisiam" />
-
-<br>
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
-
-
