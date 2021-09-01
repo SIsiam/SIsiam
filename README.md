@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahidul Islam Siam</h1>
-
- I'm  `Shahidul Islam Siam` A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `Learning` outstanding projects or Learning. `Love To Learn`😍
+A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `Learning` outstanding projects or Learning. `Love To Learn`😍
 
 <br>
 
