@@ -11,7 +11,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <div>
 
-🔭 I’m currently working on **BDEMR**
+🔭 I’m currently working on **BDEMR Solutions. Corp.**
 
 🌱 I’m currently learning **Python in dept or Advanced in JS**
 
@@ -95,7 +95,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/dev.sisiam/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=33FFFF)](https://twitter.com/Dsisiam/)
-[![CodeSandbox Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=codeSandbox&logoColor=33E6FF)](https://twitter.com/Dsisiam)
-[![Reddit Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=Reddit&logoColor=F333FF)](https://www.facebook.com/dev.sisiam/)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://www.facebook.com/dev.sisiam/)
+
+
+
+
