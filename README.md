@@ -6,7 +6,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
  <img align="right" alt="GIF" src="./images/web-dev-2.gif" width="500" height="320" />
 
-# 😍🖤 Javascript & Python Lover 💛💖
+##### 😍🖤 Javascript & Python Lover 💛💖
 
 
 <div>
@@ -19,9 +19,9 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
  
  :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
 
-👨‍💻 All of my projects are available at [https://siam-dev.netlify.app](https://siam-dev.netlify.app)
+👨‍💻 All of my projects are available at [siam-dev](https://siam-dev.netlify.app)
 
-📝 I regularly write articles on [https://shahidulmd392.medium.com/](https://shahidulmd392.medium.com/)
+📝 I regularly write articles on [shahidulmd392.medium](https://shahidulmd392.medium.com/)
 
 💬 Ask me about **JavaScript, node, express, react, mongodb, typeScript and python**
 
@@ -33,14 +33,12 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <br>
 
+## Top Technologies Used For Full Stack Web Dev
 
-#### Top Technologies Used For Full Stack Web Dev
 <br>
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=#61DBFB)](#)  [![NodeJs Badge](https://img.shields.io/badge/-nodeJs-438B40?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#74AD63)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Expressjs-FFFFFF?style=for-the-badge&labelColor=black&logo=Express.js&logoColor=#F9F9F9)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=#4DB33D)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=#3776ab)](#)  
 <br />
-
-
 
 
 ### Languages And Tools:
