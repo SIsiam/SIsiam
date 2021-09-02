@@ -47,12 +47,11 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
 <div align="right" width="300" height="200">
 
-[My Resume](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
 
- [email](shahidulmd392@gmail.com)
+[Email](shahidulmd392@gmail.com)
 
 </div>
-
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
