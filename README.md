@@ -45,20 +45,18 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
   </p>
 
 
-<span align="right" width="100" height="50"> 
+<div align="right" width="300" height="200">
+
+[My Resume](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
+
+ [email](shahidulmd392@gmail.com)
+
+</div>
+
 
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sisiam.sisiam)
 
-</span>
-
-<div>
-
-#### Resume
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hPDrmNSzqG7vWsYK6aPKLOLUqVacrYwU/view?usp=sharing)
-- :email: shahidulmd392@gmail.com
-
-</div>
 
 <br />
 
@@ -85,7 +83,6 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 </details>
 
 <br>
-
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shahidul-islam-siam-b6a167203/) 
