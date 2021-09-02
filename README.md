@@ -6,7 +6,7 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 
  <img align="right" alt="GIF" src="./images/web-dev-2.gif" width="500" height="320" />
 
-##### 😍🖤 Javascript & Python Lover 💛💖
+### 😍🖤 Javascript & Python Lover 💛💖
 
 
 <div>
@@ -14,14 +14,12 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
 🔭 I’m currently working on **BDEMR Solutions. Corp.**
 
 🌱 I’m currently learning **Python in dept or Advanced in JS**
-
- :computer: Most used line of code `git commit -m "Initial Commit"`
  
- :boom: 2021 Goal: (Full Stack Web Developer) :fire: :fire:
+ :boom: 2021 Goal: `Full Stack Developer` :fire: :fire:
 
 👨‍💻 All of my projects are available at [siam-dev](https://siam-dev.netlify.app)
 
-📝 I regularly write articles on [shahidulmd392.medium](https://shahidulmd392.medium.com/)
+📝 I regularly write articles on [medium](https://shahidulmd392.medium.com/)
 
 💬 Ask me about **JavaScript, node, express, react, mongodb, typeScript and python**
 
