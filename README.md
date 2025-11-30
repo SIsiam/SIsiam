@@ -17,7 +17,6 @@ A  proficient `Full Stack Js Developer` from Chittagong. I Spend most of time `L
  
  :boom: 2021 Goal: `Full Stack Developer` :fire: :fire:
 
-👨‍💻 All of my projects are available at [siam-dev](https://siam-dev.netlify.app)
 
 📝 I regularly write articles on [medium](https://shahidulmd392.medium.com/)
 
